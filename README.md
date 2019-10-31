@@ -52,3 +52,4 @@ LSTM is able to store past information that is important, and forget the informa
 OUTPUT::     
 ![LSTM_method_out](/images/LSTM_method.png)
             
+             
